@@ -1,4 +1,4 @@
-# Smart Guessing Game (My First Python Project)
+# Guessing Game (My First Python Project)
 
 A simple, interactive number-guessing game built while transitioning from Java and C# to Python. This project served as my introduction to Pythonic syntax and the importance of indentation.
 
